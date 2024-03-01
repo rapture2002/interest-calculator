@@ -1,0 +1,44 @@
+Interest Calculator Contributing Guidelines
+
+1. Getting Started:
+
+    Fork the repository and clone it locally.
+    Create a new branch for your contribution: git checkout -b feature/your-feature.
+
+2. Code Style:
+
+    Follow the existing code style and conventions.
+    Use clear and descriptive variable and function names.
+    Ensure your code is well-documented.
+
+3. Testing:
+
+    Include relevant tests for new features or bug fixes.
+    Ensure that existing tests pass before submitting a pull request.
+
+4. Pull Requests:
+
+    Submit a pull request to the main branch.
+    Clearly describe the purpose and scope of your changes in the pull request description.
+    Reference any relevant issues.
+
+5. Issues:
+
+    For bug reports or feature requests, open an issue before starting work.
+    Clearly describe the problem or proposed feature.
+
+6. Communication:
+
+    Join our community chat for discussions and assistance.
+    Be respectful and considerate when communicating with other contributors.
+
+7. Code of Conduct:
+
+    Abide by our Code of Conduct.
+
+8. Licensing:
+
+    Ensure that your contributions comply with the project's license.
+
+9. Attribution:
+This Contributing Guidelines document is inspired by GitHub's CONTRIBUTING.md template
